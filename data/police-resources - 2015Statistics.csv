@@ -1,0 +1,195 @@
+Police Force,Area,Year,Population,Authorized Strength,CCC Offences,Crime Rate,Case Load,Adjusted Strength,Pop Per Officer,Total Costs,Cost Per Capita
+Independant Municipal PD,Abbotsford Mun,2015,"141,580",212,"9,099",64,42,217,652,"43,620,134",308
+Independant Municipal PD,Central Saanich Mun,2015,"16,046",26,461,29,18,26,617,"4,263,378",266
+Independant Municipal PD,Delta Mun,2015,"101,548",173,"4,674",46,27,175,580,"33,957,501",334
+Independant Municipal PD,Nelson City Mun,2015,"10,802",19,854,79,45,19,569,"3,243,944",300
+Independant Municipal PD,New Westminster Mun,2015,"71,665",108,"5,393",75,49,111,646,"24,426,500",341
+Independant Municipal PD,Oak Bay Mun,2015,"17,474",23,509,29,22,23,760,"4,550,452",260
+Independant Municipal PD,Port Moody Mun,2015,"34,554",51,"1,165",34,22,52,665,"10,218,530",296
+Independant Municipal PD,Saanich Mun,2015,"110,803",157,"4,342",39,28,157,706,"36,097,633",326
+Independant Municipal PD,Vancouver Mun,2015,"650,575","1,327","49,803",77,38,"1,327",490,"263,869,064",406
+Independant Municipal PD,Victoria Mun,2015,"101,490",243,"11,662",115,48,243,418,"45,787,546",451
+Independant Municipal PD,West Vancouver Mun,2015,"45,148",79,"1,970",44,25,80,564,"14,752,797",327
+RCMP Municipal,Burnaby Mun,2015,"238,209",277,"14,881",62,50,300,794,"53,108,280",223
+RCMP Municipal,Campbell River Mun,2015,"33,395",43,"3,230",97,75,43,777,"8,328,473",249
+RCMP Municipal,Castlegar Mun,2015,"7,953",13,665,84,51,13,612,"1,660,897",209
+RCMP Municipal,Chilliwack Mun,2015,"89,823",108,"9,940",111,84,119,755,"19,910,671",222
+RCMP Municipal,Coldstream Mun,2015,"10,821",7,353,33,50,7,"1,546","840,457",78
+RCMP Municipal,Colwood Mun,2015,"16,955",17,621,37,37,17,997,"3,278,869",193
+RCMP Municipal,Comox Mun,2015,"13,986",12,536,38,45,12,"1,166","1,344,381",96
+RCMP Municipal,Coquitlam Mun,2015,"144,716",156,"8,896",61,54,166,872,"27,822,514",192
+RCMP Municipal,Courtenay Mun,2015,"25,244",30,"2,745",109,92,30,841,"5,911,725",234
+RCMP Municipal,Cranbrook Mun,2015,"19,911",26,"1,564",79,60,26,766,"5,020,598",252
+RCMP Municipal,Creston Mun,2015,"4,744",7,464,98,66,7,678,"1,024,895",216
+RCMP Municipal,Dawson Creek Mun,2015,"11,944",25,"1,766",148,71,25,478,"3,726,986",312
+RCMP Municipal,Fort St. John Mun,2015,"120,778",36,"3,032",146,84,36,577,"6,100,978",294
+RCMP Municipal,Hope Mun,2015,"5,714",13,"1,006",176,72,14,408,"2,046,489",358
+RCMP Municipal,Kamloops Mun,2015,"89,995",136,"8,585",95,63,136,662,"21,294,208",237
+RCMP Municipal,Kelowna Mun,2015,"124,378",185,"12,428",100,67,185,672,"31,240,782",251
+RCMP Municipal,Kent Mun,2015,"6,195",6,441,71,63,7,885,"1,030,727",166
+RCMP Municipal,Kimberley Mun,2015,"6,746",8,354,52,44,8,843,"814,935",121
+RCMP Municipal,Kitimat Mun,2015,"8,211",18,683,83,38,18,456,"1,995,512",243
+RCMP Municipal,Ladysmith Mun,2015,"8,177",7,661,81,94,7,"1,168","997,980",122
+RCMP Municipal,Lake Country Mun,2015,"14,035",12,672,48,56,12,"1,170","1,682,422",120
+RCMP Municipal,Langford Mun,2015,"37,275",30,"1,738",47,58,30,"1,243","5,829,461",156
+RCMP Municipal,Langley City Mun,2015,"27,738",50,"3,931",142,71,55,504,"10,340,718",373
+RCMP Municipal,Langley Township Mun,2015,"117,580",138,"8,483",72,57,149,789,"27,782,267",236
+RCMP Municipal,Maple Ridge Mun,2015,"81,533",96,"7,809",96,74,105,777,"18,620,212",228
+RCMP Municipal,Merritt Mun,2015,"7,610",15,"1,037",136,69,15,507,"2,271,484",298
+RCMP Municipal,Mission Mun,2015,"38,711",50,"4,638",120,84,55,704,"9,815,864",254
+RCMP Municipal,Nanaimo Mun,2015,"90,907",145,"8,571",94,59,145,627,"25,849,788",284
+RCMP Municipal,North Cowichan Mun,2015,"29,999",31,"2,493",83,80,31,968,"5,543,818",185
+RCMP Municipal,North Saanich Mun,2015,"10,994",11,328,30,30,11,999,"1,595,863",145
+RCMP Municipal,North Vancouver City Mun,2015,"54,258",64,"3,925",72,60,65,835,"12,028,647",222
+RCMP Municipal,North Vancouver District Mun,2015,"85,974",91,"3,347",39,37,91,945,"15,701,670",183
+RCMP Municipal,Northern Rockies Mun,2015,"5,366",11,636,119,58,11,488,"1,790,423",334
+RCMP Municipal,Parksville Mun,2015,"12,598",16,"1,133",90,71,16,787,"2,294,339",182
+RCMP Municipal,Peachland Mun,2015,"5,013",4,169,34,42,4,"1,253","568,599",113
+RCMP Municipal,Penticton Mun,2015,"33,964",45,"4,284",126,95,45,755,"8,357,087",246
+RCMP Municipal,Pitt Meadows Mun,2015,"19,652",22,"1,627",83,68,24,819,"4,153,238",211
+RCMP Municipal,Port Alberni Mun,2015,"16,149",34,"2,126",132,63,34,475,"6,149,017",381
+RCMP Municipal,Port Coquitlam Mun,2015,"60,270",67,"4,777",79,66,72,837,"13,152,863",218
+RCMP Municipal,Powell River Mun,2015,"12,893",18,876,68,49,18,716,"2,497,164",194
+RCMP Municipal,Prince George Mun,2015,"71,363",135,"10,643",149,79,135,529,"23,342,929",327
+RCMP Municipal,Prince Rupert Mun,2015,"11,386",36,"2,505",220,70,36,316,"4,841,181",425
+RCMP Municipal,Qualicum Beach Mun,2015,"8,940",8,293,33,37,8,"1,118","979,260",110
+RCMP Municipal,Quesnel Mun,2015,"9,160",21,"1,885",206,90,21,436,"3,604,306",393
+RCMP Municipal,Revelstoke Mun,2015,"7,192",12,526,73,44,12,599,"1,381,483",192
+RCMP Municipal,Richmond Mun,2015,"207,773",212,"12,082",58,55,220,944,"42,673,455",205
+RCMP Municipal,Salmon Arm Mun,2015,"17,183",19,851,50,45,19,904,"2,816,062",164
+RCMP Municipal,Sechelt Mun,2015,"9,773",11,661,68,55,12,814,"1,976,021",202
+RCMP Municipal,Sidney Mun,2015,"11,065",15,444,40,30,15,738,"2,332,676",211
+RCMP Municipal,Smithers Mun,2015,"4,932",9,885,179,98,9,548,"1,632,976",331
+RCMP Municipal,Sooke Mun,2015,"12,181",11,699,57,64,11,"1,107","1,521,130",125
+RCMP Municipal,Spallumcheen Mun,2015,"5,207",3,123,24,41,3,"1,736","423,651",81
+RCMP Municipal,Squamish Mun,2015,"18,797",25,"1,446",77,54,27,696,"4,750,761",253
+RCMP Municipal,Summerland Mun,2015,"11,267",9,570,51,63,9,"1,252","1,303,456",116
+RCMP Municipal,Surrey Mun,2015,"526,307",803,"49,228",94,61,809,651,"132,524,303",252
+RCMP Municipal,Terrace Mun,2015,"11,164",25,"2,636",236,105,25,447,"3,928,397",352
+RCMP Municipal,Trail Mun,2015,"7,448",14,557,75,40,14,532,"2,204,250",296
+RCMP Municipal,Vernon Mun,2015,"40,497",56,"4,684",116,84,56,723,"10,634,380",263
+RCMP Municipal,View Royal Mun,2015,"10,834",9,443,41,49,9,"1,204","1,250,251",115
+RCMP Municipal,West Kelowna Mun,2015,"34,484",23,"1,609",47,70,23,"1,499","4,716,488",137
+RCMP Municipal,Whistler Mun,2015,"10,361",24,"1,334",129,56,24,432,"5,028,977",485
+RCMP Municipal,White Rock Mun,2015,"19,327",23,"1,410",73,59,24,805,"4,931,339",255
+RCMP Municipal,Williams Lake Mun,2015,"11,215",24,"2,960",264,123,24,467,"4,073,652",363
+RCMP Provincial,Agassiz Prov,2015,"3,648",8,534,146,67,,,,
+RCMP Provincial,Alert Bay Prov,2015,"1,352",4,187,138,47,,,,
+RCMP Provincial,Alexis Creek Prov,2015,"1,713",5,209,122,42,,,,
+RCMP Provincial,Anahim Lake Prov,2015,708,4,112,158,28,,,,
+RCMP Provincial,Armstrong Prov,2015,"5,472",6,223,41,37,,,,
+RCMP Provincial,Ashcroft Prov,2015,"3,613",5,290,80,58,,,,
+RCMP Provincial,Atlin Prov,2015,417,3,55,132,18,,,,
+RCMP Provincial,Barriere Prov,2015,"3,865",4,285,74,71,,,,
+RCMP Provincial,Bella Bella Prov,2015,"1,640",5,141,86,28,,,,
+RCMP Provincial,Bella Coola Prov,2015,"1,918",4,189,99,47,,,,
+RCMP Provincial,Boston Bar Prov,2015,612,3,98,160,33,,,,
+RCMP Provincial,Bowen Island Prov,2015,"3,546",3,120,34,40,,,,
+RCMP Provincial,Burns Lake Prov,2015,"6,236",11,704,113,64,,,,
+RCMP Provincial,Campbell River Prov,2015,"5,280",7,590,112,84,,,,
+RCMP Provincial,Chase Prov,2015,"8,283",9,607,73,67,,,,
+RCMP Provincial,Chetwynd Prov,2015,"5,455",10,528,97,53,,,,
+RCMP Provincial,Chilliwack Prov,2015,"4,671",8,860,184,108,,,,
+RCMP Provincial,Clearwater Prov,2015,"4,302",6,245,57,41,,,,
+RCMP Provincial,Clinton Prov,2015,"1,822",4,113,62,28,,,,
+RCMP Provincial,Columbia Valley Prov,2015,"9,020",11,603,67,55,,,,
+RCMP Provincial,Comox Valley Prov,2015,"25,404",19,942,37,50,,,,
+RCMP Provincial,Coquitlam Prov,2015,"2,866",3,95,33,32,,,,
+RCMP Provincial,Cranbrook Prov,2015,"6,537",4,222,34,56,,,,
+RCMP Provincial,Creston Prov,2015,"8,337",6,436,52,73,,,,
+RCMP Provincial,Dawson Creek Prov,2015,"7,050",4,373,53,93,,,,
+RCMP Provincial,Dease Lake Prov,2015,"1,349",7,165,122,24,,,,
+RCMP Provincial,Duncan Prov,2015,"14,540",23,"2,038",140,89,,,,
+RCMP Provincial,Elk Valley Prov,2015,"13,552",18,597,44,33,,,,
+RCMP Provincial,Elkford,2015,"2,738",3,50,18,,,,,
+RCMP Provincial,Fernie,2015,"6,502",9,379,58,,,,,
+RCMP Provincial,Sparwood,2015,"4,312",5,168,39,,,,,
+RCMP Provincial,Enderby Prov,2015,"6,837",8,398,58,50,,,,
+RCMP Provincial,Falkland Prov,2015,"2,938",3,103,35,34,,,,
+RCMP Provincial,Fort St. James Prov,2015,"4,580",13,974,213,75,,,,
+RCMP Provincial,Fort St. John Prov,2015,"14,430",10,675,47,68,,,,
+RCMP Provincial,Fraser Lake Prov,2015,"3,451",5,163,47,33,,,,
+RCMP Provincial,Gabriola Island Prov,2015,"4,132",3,201,49,67,,,,
+RCMP Provincial,Golden Prov,2015,"7,029",11,559,80,51,,,,
+RCMP Provincial,Hope Prov,2015,"1,110",5,189,170,38,,,,
+RCMP Provincial,Houston Granisle Prov,2015,"4,539",9,454,100,50,,,,
+RCMP Provincial,Hudsons Hope Prov,2015,"1,264",3,76,60,25,,,,
+RCMP Provincial,Kelowna Prov,2015,"16,290",15,"1,137",70,76,,,,
+RCMP Provincial,Keremeos Prov,2015,"4,820",6,434,90,72,,,,
+RCMP Provincial,Kimberley Prov,2015,"1,903",2,89,47,45,,,,
+RCMP Provincial,Kitimat Prov,2015,572,2,45,79,23,,,,
+RCMP Provincial,Kootenay Boundary Regional,2015,"49,903",53,"2,288",46,43,,,,
+RCMP Provincial,Castlegar,2015,"6,033",3,210,35,,,,,
+RCMP Provincial,Grand Forks,2015,"7,827",10,523,67,,,,,
+RCMP Provincial,Kaslo,2015,"2,365",3,204,86,,,,,
+RCMP Provincial,Midway,2015,"2,622",4,200,76,,,,,
+RCMP Provincial,Nakusp,2015,"3,420",4,226,66,,,,,
+RCMP Provincial,Nelson,2015,"12,327",6,246,20,,,,,
+RCMP Provincial,Salmo,2015,"2,717",4,208,77,,,,,
+RCMP Provincial,Slocan Lake,2015,"2,005",3,108,54,,,,,
+RCMP Provincial,Trail & Greater District,2015,"10,587",8,363,34,,,,,
+RCMP Provincial,Ladysmith Prov,2015,"5,918",5,341,58,68,,,,
+RCMP Provincial,Lake Cowichan Prov,2015,"6,148",10,474,77,47,,,,
+RCMP Provincial,Lillooet Prov,2015,"3,338",7,281,84,40,,,,
+RCMP Provincial,Lisims-Nass Valley Prov,2015,"2,119",4,313,148,78,,,,
+RCMP Provincial,Logan Lake Prov,2015,"2,588",3,130,50,43,,,,
+RCMP Provincial,Lumby Prov,2015,"5,921",5,269,45,54,,,,
+RCMP Provincial,Lytton Prov,2015,"1,920",4,194,101,49,,,,
+RCMP Provincial,Mackenzie Prov,2015,"3,619",10,470,130,47,,,,
+RCMP Provincial,Masset Prov,2015,"2,009",7,314,156,45,,,,
+RCMP Provincial,McBride Prov,2015,"1,665",4,122,73,31,,,,
+RCMP Provincial,Merritt Prov,2015,"3,842",5,287,75,57,,,,
+RCMP Provincial,Mission Prov,2015,"4,075",5,265,65,53,,,,
+RCMP Provincial,Nanaimo Prov,2015,"13,852",7,508,37,73,,,,
+RCMP Provincial,New Hazelton Prov,2015,"5,898",10,846,143,85,,,,
+RCMP Provincial,Nootka Sound Prov,2015,"1,884",6,207,110,35,,,,
+RCMP Provincial,North Vancouver Prov,2015,"2,886",2,306,106,153,,,,
+RCMP Provincial,Northern Rockies Prov,2015,596,4,281,471,70,,,,
+RCMP Provincial,Oceanside Prov,2015,"24,667",12,977,40,81,,,,
+RCMP Provincial,Oliver Prov,2015,"8,500",10,763,90,76,,,,
+RCMP Provincial,One Hundred Mile House Prov,2015,"12,904",13,631,49,49,,,,
+RCMP Provincial,Osoyoos Prov,2015,"7,201",8,580,81,73,,,,
+RCMP Provincial,Outer Gulf Islands Prov,2015,"4,832",5,138,29,28,,,,
+RCMP Provincial,Pemberton Prov,2015,"4,271",9,322,75,36,,,,
+RCMP Provincial,Penticton Prov,2015,"11,452",7,571,50,82,,,,
+RCMP Provincial,Port Alberni Prov,2015,"8,436",7,294,35,42,,,,
+RCMP Provincial,Port Alice Prov,2015,814,2,55,68,28,,,,
+RCMP Provincial,Port Hardy Prov,2015,"5,219",12,872,167,73,,,,
+RCMP Provincial,Port McNeill Prov,2015,"4,377",9,233,53,26,,,,
+RCMP Provincial,Powell River Prov,2015,"5,377",5,197,37,39,,,,
+RCMP Provincial,Prince George Prov,2015,"13,121",7,532,41,76,,,,
+RCMP Provincial,Prince Rupert Prov,2015,"1,889",6,252,133,42,,,,
+RCMP Provincial,Princeton Prov,2015,"4,934",7,452,92,65,,,,
+RCMP Provincial,Quadra Island Prov,2015,"3,504",4,80,23,20,,,,
+RCMP Provincial,Queen Charlotte City Prov,2015,"2,295",5,147,64,29,,,,
+RCMP Provincial,Quesnel Prov,2015,"13,317",9,578,43,64,,,,
+RCMP Provincial,Revelstoke Prov,2015,588,2,61,104,31,,,,
+RCMP Provincial,Ridge Meadows Prov,2015,90,3,69,,23,,,,
+RCMP Provincial,Salmon Arm Prov,2015,"9,541",5,328,34,66,,,,
+RCMP Provincial,Saltspring Island Prov,2015,"10,479",8,324,31,41,,,,
+RCMP Provincial,Sayward Prov,2015,773,3,56,72,19,,,,
+RCMP Provincial,Shawnigan Lake Prov,2015,"18,027",11,718,40,65,,,,
+RCMP Provincial,Sicamous Prov,2015,"3,831",6,349,91,58,,,,
+RCMP Provincial,Sidney Prov,2015,"3,553",4,317,89,79,,,,
+RCMP Provincial,Smithers Prov,2015,"7,899",6,346,44,58,,,,
+RCMP Provincial,Sooke Prov,2015,"4,639",4,265,57,66,,,,
+RCMP Provincial,Squamish Prov,2015,"1,932",7,166,86,24,,,,
+RCMP Provincial,Stewart Prov,2015,422,4,40,95,10,,,,
+RCMP Provincial,Sunshine Coast Prov,2015,"18,618",22,874,47,40,,,,
+RCMP Provincial,T'Kumlups Prov,2015,197,8,626,"3,178",78,,,,
+RCMP Provincial,Takla Landing Prov,2015,"8,143",1,87,11,87,,,,
+RCMP Provincial,Terrace Prov,2015,"1,023",7,605,591,86,,,,
+RCMP Provincial,Texada Island Prov,2015,"8,385",2,51,6,26,,,,
+RCMP Provincial,Tofino Prov,2015,"3,419",8,553,162,69,,,,
+RCMP Provincial,Tsay Keh Dene Prov,2015,384,3,188,490,63,,,,
+RCMP Provincial,Tumbler Ridge Prov,2015,"2,647",5,147,56,29,,,,
+RCMP Provincial,Ucluelet Prov,2015,"2,121",4,176,83,44,,,,
+RCMP Provincial,University Prov,2015,"16,456",17,"1,464",89,86,,,,
+RCMP Provincial,Valemount Prov,2015,"1,535",6,158,103,26,,,,
+RCMP Provincial,Vanderhoof Prov,2015,"8,819",9,"1,095",124,122,,,,
+RCMP Provincial,Vernon Prov,2015,"11,480",9,407,35,45,,,,
+RCMP Provincial,Wells Prov,2015,352,3,48,136,16,,,,
+RCMP Provincial,West Shore Prov,2015,"9,234",5,301,33,60,,,,
+RCMP Provincial,Whistler Prov,2015,301,4,28,93,7,,,,
+RCMP Provincial,Williams Lake Prov,2015,"12,900",9,488,38,54,,,,
+First Nations Self-Administered,Stl’atl’imx Tribal Police Service ,2015,"3,002",10,358,119,36,,,,

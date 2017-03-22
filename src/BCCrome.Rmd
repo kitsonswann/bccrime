@@ -1,0 +1,94 @@
+---
+title: "Policing in BC"
+author: "Kitson Swann"
+date: '2017-02-11'
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+```{r}
+library(tidyverse)
+library(stringr)
+
+```
+
+
+```{r}
+
+authorized_strength <- read_csv("../data/authorized_strength_by_year.csv")
+
+as_tidy <- authorized_strength %>% 
+  gather(key = Year, value = `Authorized Strength`, `2006`, `2007`, `2008`, `2009`, `2010`,`2011`,`2012`,`2013`,`2014`, `2015`)
+
+as_tidy
+
+
+get_force <- function(area_name) {
+  
+  if(area_name %in% indp) {
+    
+    return ("Independant Municipal PD")
+  
+  } else if (str_detect(string = area_name, pattern = ' Prov') == TRUE) {
+    
+    return ("RCMP Provincial")
+    
+  } else if (str_detect(string = area_name, pattern = ' Mun') == TRUE) {
+    
+    return ("RCMP Municipal")
+    
+  } else {
+    return (NA)
+  }
+    
+}
+
+as_tidy$`Police Force` <- unlist(map(.x = as_tidy$Area, .f = get_force))
+
+as_tidy
+
+
+pop_by_year <- read_csv('../data/populationofpolicingjurisdictions-2004-to-2014.csv')
+
+pop_tidy <- pop_by_year %>% 
+  gather(key = Year, value = Population, `2004`, `2005`, `2006`, `2007`, `2008`, `2009`, `2010`,`2011`,`2012`,`2013`,`2014`)
+
+pop_tidy
+
+pr_2015 <- read_csv('../data/police-resources - 2015Statistics.csv')
+
+pr_2015$Year <- as.character(pr_2015$Year)
+
+pop_tidy <- pop_tidy %>%
+  mutate(`Police Force`=`TYPE OF POLICING`, Area=`POLICING JURISDICTION`) %>% 
+  select(REGION, `Police Force`, Area, Year, Population)
+
+pop_tidy$Population <- as.numeric(pop_tidy$Population)
+
+pop_tidy
+
+full_table <- full_join(pr_2015, pop_tidy)
+
+full_table <- full_join(full_table, as_tidy)
+
+full_table %>% 
+  arrange(Area, Year)
+
+full_table
+
+
+indp <- pr_2015 %>% 
+  filter(`Police Force`=="Independant Municipal PD") %>% 
+  select(Area) %>% 
+  unlist()
+
+indp
+
+
+
+```
+
