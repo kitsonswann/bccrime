@@ -1,0 +1,10 @@
+name: bc_crime_trends_2006-2015
+title: BC Crime Trends 2006-2015
+account: kitsonswann
+server: shinyapps.io
+appId: 166055
+bundleId: 758583
+url: https://kitsonswann.shinyapps.io/bc_crime_trends_2006-2015/
+when: 1490218235.21983
+asMultiple: FALSE
+asStatic: FALSE

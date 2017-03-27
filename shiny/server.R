@@ -10,7 +10,7 @@
 library(shiny)
 library(tidyverse)
 
-all_crime <- read_csv("../results/clean_crime.csv")
+all_crime <- read_csv("clean_crime.csv")
 
 # Define server logic required to draw a histogram
 shinyServer(function(input, output) {
